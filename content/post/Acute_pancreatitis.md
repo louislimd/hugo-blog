@@ -22,6 +22,7 @@ Acute pancreatitis is an inflammatory condition of the pancreas and peripancreat
 Approximately 75~80% of pancreatitis cases can be explained on the basis of **gallstone disease** or **alcohol abuse**. Less common causes include trauma, hypercalcemia, hypertriglyceridemia, and a variety of drugs.
 
 Potential causes:
+
 - Gallstones: Gallstones with a diameter of less than 5 mm are significantly more likely than larger stones to pass through the cystic duct and cause obstruction at the ampulla. Gallstone pancreatitis is more common in female.
 - Alocohol abuse
 - Drugs: steroids, sulfonamides, furosemide, and thiazides
