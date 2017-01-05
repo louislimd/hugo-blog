@@ -39,11 +39,13 @@ Symptoms consist of **epigastric abdominal pain radiating to back**, nausea, and
 _Physical examination_
 
 Retroperitoneal hemorrhage caused by severe inflammation and necrosis can lead to fluis losses, hypotension, tachycardia, and shock.
+
 1. **Turner sign**: Blood dissection extends to the flank, resulting in flank ecchymosis.
 2. **Cullen sign**: Blood dissects up the falciform ligament and creates a periumbilical ecchymosis.
 
 ### Diagnosis
 _Differential diagnosis_
+
 - Acute cholecystitis
 - Duodenal ulcer
 - Intestinal obstruction
@@ -54,6 +56,7 @@ _Differential diagnosis_
 - Ruptured ectopic pregnancy
 
 _Laboratories_
+
 1. **Lipase**
     - Elevated beyond 3 times the upper limit of normal.
     - Serum lipase is more specific and sensitive than serum amylase.
@@ -70,7 +73,8 @@ _Laboratories_
     - Decreased: Ca
 
 
-References
+References:
+
 1. The Massachusetts General Hospital Handbook of Internal Medicine 5e
 2. The Washington Manual of Medical Therapeutics 35e
 3. NMS surgery 6e
