@@ -7,7 +7,7 @@ tags = ["general surgery"
 description = ""
 banner = ""
 title = "Acute pancreatitis"
-categories = [
+categories = ["pancrea"
 ]
 menu = ""
 disable_comments = true
@@ -71,6 +71,16 @@ _Laboratories_
     - For those with abnormal renal function, amylase-to-creatinine ratio > 5 strongly suggests pancreatitis.
     - Elevated: WBC, BUN, CRP, glucose
     - Decreased: Ca
+
+_Imaging_
+
+1. Upper abdominal plain films/Chest radiographs: Relatively insensitive for dianosis.
+    - "Cut off" sign: Area of colonic spasm adjacent to an inflamed pancreas causes the gas in the transverse colon to end abruptly.
+    - Chest radiographs: Approximately 1/3 of patients have abnormalities such as pleural effusions and basal atelectasis.
+2. **Ultrasound imaging**:
+    - US may be particularly useful to investigate biliary etiology (ex. gallstones and bile duct dilation).
+    - In approximately 25~35% of patients, excessive bowel gasdue to an ileus precludes evaluation.
+3. **CT scan**
 
 
 References:
