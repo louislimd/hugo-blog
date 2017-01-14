@@ -80,19 +80,32 @@ _Imaging_
 2. **Ultrasound imaging**:
     - US may be particularly useful to investigate biliary etiology (ex. gallstones and bile duct dilation).
     - In approximately 25~35% of patients, excessive bowel gas due to an ileus precludes evaluation.
-3. **CT scan**
+3. **CT scan**:
 	- Contrast-enhanced CT scan can be performed three or more days after the onset of abdominal pain to evaluate for pancreatic necrosis and predict the severity of the disease.
     - Pancreatic necrosis is recognized as lack of enhancement after intravenous contrast administration.
-    - CT severity index provides valuable prognostic information.
-    - Balthazar Computed Tomography Score    
-    | Grade |               Computed Tomography Findings               |
-    |:-----:|:--------------------------------------------------------:|
-    |   A   | Normal                                                   |
-    |   B   | Focal or diffuse enlargement of pancreas                 |
-    |   C   | B + peripancreatic inflammation                          |
-    |   D   | C + single fluid collection                              |
-    |   E   | D + two or more fluid collections and/or presence of gas |
-    - 
+    - Patients with a CT severity index > 5 (Table-1, Table-2) were 8 times more likely to die, 17 times more likely to have prolonged hospital stay, and 10 times more likely to need necrosectomy.
+4. Magnetic resonance (MR):
+    - MRI with gadolinium: Failure of the pancreatic parenchyma to enhance indicates pancreatic necrosis.
+    - Magnetic resonance cholangiopancreatography (MRCP) is useful to detect a biliary source for pancreatitis.
+    
+Table-1: Balthazar Computed Tomography Score
+    
+| Grade |               Computed Tomography Findings               |
+|:-----:|:---------------------------------------------------------|
+|   A   | Normal                                                   |
+|   B   | Focal or diffuse enlargement of pancreas                 |
+|   C   | B + peripancreatic inflammation                          |
+|   D   | C + single fluid collection                              |
+|   E   | D + two or more fluid collections and/or presence of gas |
+Table-2: Computed Tomography Severity Index (CTSI)
+
+| Grade | Assigned Score | Percent Necrosis | Assigned Score |
+|:-----:|:--------------:|:----------------:|:--------------:|
+|   A   | 0              | None             | 0              |
+|   B   | 1              | <30              | 2              |
+|   C   | 2              | 30~50            | 4              |
+|   D   | 3              | >50              | 6              |
+|   E   | 4              |                  |                |
 
 
 References:
