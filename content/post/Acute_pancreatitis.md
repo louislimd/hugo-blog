@@ -2,12 +2,12 @@
 images = [
 ]
 date = "2017-01-02T07:32:51+08:00"
-tags = ["general surgery", "gastroenterology & hepatology"
+tags = ["pancrea"
 ]
 description = ""
 banner = ""
 title = "Acute pancreatitis"
-categories = ["pancrea"
+categories = ["diseases"
 ]
 menu = ""
 disable_comments = true
@@ -81,6 +81,18 @@ _Imaging_
     - US may be particularly useful to investigate biliary etiology (ex. gallstones and bile duct dilation).
     - In approximately 25~35% of patients, excessive bowel gas due to an ileus precludes evaluation.
 3. **CT scan**
+	- Contrast-enhanced CT scan can be performed three or more days after the onset of abdominal pain to evaluate for pancreatic necrosis and predict the severity of the disease.
+    - Pancreatic necrosis is recognized as lack of enhancement after intravenous contrast administration.
+    - CT severity index provides valuable prognostic information.
+    - Balthazar Computed Tomography Score    
+    | Grade |               Computed Tomography Findings               |
+    |:-----:|:--------------------------------------------------------:|
+    |   A   | Normal                                                   |
+    |   B   | Focal or diffuse enlargement of pancreas                 |
+    |   C   | B + peripancreatic inflammation                          |
+    |   D   | C + single fluid collection                              |
+    |   E   | D + two or more fluid collections and/or presence of gas |
+    - 
 
 
 References:
