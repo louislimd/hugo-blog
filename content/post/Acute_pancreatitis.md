@@ -79,7 +79,7 @@ _Imaging_
     - Chest radiographs: Approximately 1/3 of patients have abnormalities such as pleural effusions and basal atelectasis.
 2. **Ultrasound imaging**:
     - US may be particularly useful to investigate biliary etiology (ex. gallstones and bile duct dilation).
-    - In approximately 25~35% of patients, excessive bowel gasdue to an ileus precludes evaluation.
+    - In approximately 25~35% of patients, excessive bowel gas due to an ileus precludes evaluation.
 3. **CT scan**
 
 
