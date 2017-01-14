@@ -2,7 +2,7 @@
 images = [
 ]
 date = "2017-01-02T07:32:51+08:00"
-tags = ["general surgery"
+tags = ["general surgery", "gastroenterology & hepatology"
 ]
 description = ""
 banner = ""
@@ -38,7 +38,7 @@ Symptoms consist of **epigastric abdominal pain radiating to back**, nausea, and
 
 _Physical examination_
 
-Retroperitoneal hemorrhage caused by severe inflammation and necrosis can lead to fluis losses, hypotension, tachycardia, and shock.
+Retroperitoneal hemorrhage caused by severe inflammation and necrosis can lead to fluid losses, hypotension, tachycardia, and shock.
 
 1. **Turner sign**: Blood dissection extends to the flank, resulting in flank ecchymosis.
 2. **Cullen sign**: Blood dissects up the falciform ligament and creates a periumbilical ecchymosis.
@@ -88,4 +88,4 @@ References:
 1. The Massachusetts General Hospital Handbook of Internal Medicine 5e
 2. The Washington Manual of Medical Therapeutics 35e
 3. NMS surgery 6e
-4. UpToDate, "Etiology of acute pancreatitis"
+4. UpToDate: "Etiology of acute pancreatitis", "Clinical manifestations and diagnosis of acute pancreatitis"
