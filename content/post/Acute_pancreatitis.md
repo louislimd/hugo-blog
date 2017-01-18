@@ -5,7 +5,7 @@ date = "2017-01-02T07:32:51+08:00"
 tags = ["pancrea"
 ]
 description = ""
-banner = ""
+banner = "banners/pancreas_anatomy.png"
 title = "Acute pancreatitis"
 categories = ["diseases"
 ]
@@ -121,10 +121,9 @@ _Surgical management_
 - **APACHE II score**: severe if score >= 8
     
 Table-1: Computed Tomography Severity Index (CTSI)
-    
+![This is an image](/img/CTSI.png)
 Table-2: Ranson's criteria
-
-
+![This is an image](/img/Ranson.png)
 
 
 References:
