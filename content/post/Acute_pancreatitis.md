@@ -83,29 +83,48 @@ _Imaging_
 3. **CT scan**:
 	- Contrast-enhanced CT scan can be performed three or more days after the onset of abdominal pain to evaluate for pancreatic necrosis and predict the severity of the disease.
     - Pancreatic necrosis is recognized as lack of enhancement after intravenous contrast administration.
-    - Patients with a CT severity index > 5 (Table-1, Table-2) were 8 times more likely to die, 17 times more likely to have prolonged hospital stay, and 10 times more likely to need necrosectomy.
+    - Patients with a CT severity index > 5 (Table-1) were 8 times more likely to die, 17 times more likely to have prolonged hospital stay, and 10 times more likely to need necrosectomy.
 4. Magnetic resonance (MR):
     - MRI with gadolinium: Failure of the pancreatic parenchyma to enhance indicates pancreatic necrosis.
     - Magnetic resonance cholangiopancreatography (MRCP) is useful to detect a biliary source for pancreatitis.
     
-Table-1: Balthazar Computed Tomography Score
-    
-| Grade |               Computed Tomography Findings               |
-|:-----:|:---------------------------------------------------------|
-|   A   | Normal                                                   |
-|   B   | Focal or diffuse enlargement of pancreas                 |
-|   C   | B + peripancreatic inflammation                          |
-|   D   | C + single fluid collection                              |
-|   E   | D + two or more fluid collections and/or presence of gas |
-Table-2: Computed Tomography Severity Index (CTSI)
+### Treatment
+_Nonoperative therapies_
 
-| Grade | Assigned Score | Percent Necrosis | Assigned Score |
-|:-----:|:--------------:|:----------------:|:--------------:|
-|   A   | 0              | None             | 0              |
-|   B   | 1              | <30              | 2              |
-|   C   | 2              | 30~50            | 4              |
-|   D   | 3              | >50              | 6              |
-|   E   | 4              |                  |                |
+- Supportive therapy should be undertaken in mild cases, with careful monitoring of fluid balance, urine output, and serum electrolytes (including calcium and glucose). Be aware of respiratory distress due to pleural effusions.
+- **Intravenous (IV) fluids**: Fluid resuscitation with lactated Ringer's solution (at least 250 mL/hour, up to 10 L/day) may be superior to normal saline. However, lactated Ringer's is contraindicated in patients with hypercalcemia. Adequate fluid replacement can be assessed by an improvement in vital signs (heart rate < 120 beats/minute, mean arterial pressure between 65~85 mmHg) and urine output (0.5~1 cc/kg/hour).
+- Patients should receive **nothing PO** until they are free of pain and nausea. NG suction is reserved for patients with ileus or protracted emesis. If the patient is expected to receive NPO > 7 days, enteral nutrition with nasojejunal tube (can be replaced by NG tube if not possible) within 24 to 48 hours is indicated.
+- **Pain control**: IV meperidine, morphine, or hydromorphone.
+- Routine use of prophylactic antibiotics is not recommended in the absence of systemic infection.
+
+_Surgical management_
+
+- Severe pancreatitis is usually managed nonoperatively except for persistent biliary obstruction due to stones, abscess or sepsis, or failure to improve.
+- Urgent ERCP and sphincterotomy within 72 hours is reserved for severe cholangitis/sepsis caused by obstructive bile duct stones.
+- Cholecystectomy should be performed after recovery in patients with gallstone pancreatitis.
+- Necrotizing pancreatitis often requires minimally-invasive debridement and broad-spectrum antibiotics for Gram negative rods (carbapenems or a combination of fluoroquinolone and metronidazole have good penetration into necrotic tissue).
+
+### Complications
+- Systemic: shock, renal failure, GI hemorrhage
+- Metabolic: hypocalcemia, hypomagnesemia, and hyperglycemia
+- Pulmonary complications: acute respiratory distress syndrome, pleural effusions, atelectasis, pneumonia
+- Local complications:
+    - Acute peri-pancreatic fluid collection: Peripancreatic fluid without capsule formation, usually seen within the first 4 weeks. No treatment is required.
+    - Pseudocyst: An encapsulated collection of fluid, usually occurs more than 4 weeks. Pseudocyst is suggested by persistent pain or elevated amylase/lipase levels. Decompression of symptomatic or infected pseudocysts can be performed by percutaneous, endoscopic, or surgical techniques.
+    - Acute necrosis collection: A heterogeneous collection containing both fluid and necrosis without definable wall, usually seen within 4 weeks.
+    - Walled-off necrosis: A mature, encapsulated collection of necrosis that has developed a well-defined wall, usually occurs > 4 weeks after onset of necrotizing pancreatitis.
+
+### Prognosis
+- Severe pancreatitis occurs in 20% of patients and is defined as episodes with organ failure or local complications.
+- HAPS: no abdominal tenderness or rebound on exam plus normal hematocrit and creatinine on admission pedicts non-severe course with 98% accuracy
+- **Ranson's criteria**: See Table-2
+- **APACHE II score**: severe if score >= 8
+    
+Table-1: Computed Tomography Severity Index (CTSI)
+    
+Table-2: Ranson's criteria
+
+
 
 
 References:
@@ -113,4 +132,4 @@ References:
 1. The Massachusetts General Hospital Handbook of Internal Medicine 5e
 2. The Washington Manual of Medical Therapeutics 35e
 3. NMS surgery 6e
-4. UpToDate: "Etiology of acute pancreatitis", "Clinical manifestations and diagnosis of acute pancreatitis"
+4. UpToDate: "Etiology of acute pancreatitis", "Clinical manifestations and diagnosis of acute pancreatitis", "Predicting the severity of acute pancreatitis", "Management of acute pancreatitis"
