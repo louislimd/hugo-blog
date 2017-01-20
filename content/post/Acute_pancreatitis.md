@@ -15,7 +15,7 @@ disable_comments = true
 +++
 
 <!--more-->
-### Introduction
+
 Acute pancreatitis is an inflammatory condition of the pancreas and peripancreatic tissue. The inflammatory process is caused by activation of pancreatic enzymes (particularly trypsin). Autodigestion by these enzymes often leads to fat necrosis.
 
 ### Etiology
@@ -105,10 +105,10 @@ _Surgical management_
 - Necrotizing pancreatitis often requires minimally-invasive debridement and broad-spectrum antibiotics for Gram negative rods (carbapenems or a combination of fluoroquinolone and metronidazole have good penetration into necrotic tissue).
 
 ### Complications
-- Systemic: shock, renal failure, GI hemorrhage
-- Metabolic: hypocalcemia, hypomagnesemia, and hyperglycemia
-- Pulmonary complications: acute respiratory distress syndrome, pleural effusions, atelectasis, pneumonia
-- Local complications:
+1. Systemic: shock, renal failure, GI hemorrhage
+2. Metabolic: hypocalcemia, hypomagnesemia, and hyperglycemia
+3. Pulmonary complications: acute respiratory distress syndrome, pleural effusions, atelectasis, pneumonia
+4. Local complications:
     - Acute peri-pancreatic fluid collection: Peripancreatic fluid without capsule formation, usually seen within the first 4 weeks. No treatment is required.
     - Pseudocyst: An encapsulated collection of fluid, usually occurs more than 4 weeks. Pseudocyst is suggested by persistent pain or elevated amylase/lipase levels. Decompression of symptomatic or infected pseudocysts can be performed by percutaneous, endoscopic, or surgical techniques.
     - Acute necrosis collection: A heterogeneous collection containing both fluid and necrosis without definable wall, usually seen within 4 weeks.
@@ -121,9 +121,9 @@ _Surgical management_
 - **APACHE II score**: severe if score >= 8
     
 Table-1: Computed Tomography Severity Index (CTSI)
-![This is an image](/img/CTSI.png)
+![Computed tomography severity index](/img/CTSI.png)
 Table-2: Ranson's criteria
-![This is an image](/img/Ranson.png)
+![Ranson's criteria](/img/Ranson.png)
 
 
 References:
