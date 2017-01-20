@@ -14,8 +14,7 @@ disable_comments = true
 
 +++
 
-<!--more-->
-
+### Introduction
 Acute pancreatitis is an inflammatory condition of the pancreas and peripancreatic tissue. The inflammatory process is caused by activation of pancreatic enzymes (particularly trypsin). Autodigestion by these enzymes often leads to fat necrosis.
 
 ### Etiology
