@@ -2,11 +2,11 @@
 images = [
 ]
 date = "2017-01-19T07:11:59+08:00"
-title = "Creating_new_site_using_hugo"
+title = "Creating new site using hugo"
 disable_comments = true
-tags = [
+tags = ["blog"
 ]
-categories = [
+categories = ["coding"
 ]
 menu = ""
 description = ""

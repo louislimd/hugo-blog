@@ -2,13 +2,13 @@
 description = ""
 menu = ""
 disable_comments = true
-categories = [
+categories = ["diseases"
 ]
-title = "Diabetic_ketoacidosis"
+title = "Diabetic ketoacidosis"
 banner = ""
 images = [
 ]
-tags = [
+tags = ["endocrine"
 ]
 date = "2016-12-13T09:30:37+08:00"
 
