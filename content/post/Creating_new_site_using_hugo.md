@@ -20,3 +20,5 @@ I did a lot of research on many static site generators and decided to settle dow
 <!--more-->
 ### Download and extract the binary
 First, download the Hugo binary for your platform from Github. For example, I will download binary for 64 bit linux, since I am using Ubuntu 16.04. Next, extract it in a seperate folder in home directory. You can create this folder using the following command line:
+
+	$ mkdir ~/dev
