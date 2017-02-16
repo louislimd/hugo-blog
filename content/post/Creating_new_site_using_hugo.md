@@ -10,7 +10,7 @@ categories = ["coding"
 ]
 menu = ""
 description = ""
-banner = ""
+banner = "banners/site_screenshot.png"
 
 +++
 
@@ -129,18 +129,23 @@ After this we can add everything to the repository. For example:
 ### Setting up Wercker
 Create application inside Wercker.
 ![](/img/wercker01.png)
+
 Click on "Workflows" while in your application.
 ![](/img/wercker02.png)
+
 Click on "Add new pipeline" and configure it. This references your deploy step in `wercker.yml` created before.
 ![](/img/wercker03.png)
+
 After you configure the pipeline, the next page allows you to fill in environment variables. Since wercker needs authorization to access Github, you should create a [personal access token](https://help.github.com/articles/creating-an-access-token-for-command-line-use/). Copy the personal access token from last step and enter it on the Wercker “Environment variables” configuration page. Name it `GIT_TOKEN` and set it as protected. Click “Add.”
 ![](/img/wercker04.png)
+
 Back to "Workflows" and click the “+” button after your “build” step. Configure the deploy step to deploy your “master” branch. Click “Add.”
 ![](/img/wercker05.png)
+
 Now Wercker will trigger a build and deploy automatically whenever pull request is merged.
 
 ### Editing the post using Prose.io
-You can edit the content of your website by using [Prose.io](prose.io). After you commit changes to your project repository, Wercker will deploy content in the `public` directory to the User Page repository.
+You can edit the content of your website by using **Prose.io**. After you commit changes to your project repository, Wercker will deploy content in the `public` directory to the User Page repository.
 ![](/img/prose.png)
 Browse your newly published website at `http(s)://<username>.github.io` and cheers!
 
