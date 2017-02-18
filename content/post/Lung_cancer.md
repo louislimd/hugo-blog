@@ -14,7 +14,7 @@ date = "2017-02-17T00:01:26+08:00"
 
 +++
 ### Introduction
-Lung cancer is the leading cause of cancer death in Taiwan. 
+Lung cancer is the leading cause of cancer death in both men and women. 
 
 ### Etiology
 Smoking is the greatest risk factor for lung cancer, with ~90% of cases being tobacco-related. Other risk factors include exposure to asbestos and radon. 
@@ -53,7 +53,7 @@ _Regional spread_
 
 - Intrathoracic extension might cause pleural effusion, pericardial effusion, hoarseness (recurrent laryngeal nerve palsy), dysphagia (esophageal compression), stridor (tracheal obstruction), and chest wall pain.
 - **Pancoast tumor**: apical tumor results in shoulder pain from invasion of muscle, atrophy of hand muscles and radicular arm pain caused by **brachial plexus involvement** (C8, T1, T2), and **Horner syndrome** (ptosis, miosis, enophthalmos, and anhidrosis).
-- **Superior vena cava syndrome**: compression of SVC might cause face or arm swelling, venous distension of neck and shoulder wall, dyspnea, cough, and headache. Theses symptoms can be relieved by steroid, diuretics and radiotherapy (most of the malignancies causing SVC syndrome are radiation sensitive!). SVC stent can be used for severe symptoms. If thrombus is present, anticoagulation should be considered.
+- **Superior vena cava syndrome**: compression of SVC might cause face or arm swelling, venous distension of neck and shoulder wall, dyspnea, cough, and headache. These symptoms can be relieved by steroid, diuretics and radiotherapy (most of the malignancies causing SVC syndrome are radiation sensitive!). SVC stent can be used for severe symptoms. If thrombus is present, anticoagulation should be considered.
 
 _Extrathoracic metastases_
 
@@ -73,13 +73,52 @@ _Screening_
 - Any patient with a smoking history and concerning pulmonary symptoms should undergo a **low-dose chest CT-scan**.
 
 _Diagnostic and staging evaluation_
-1. Initial imaging:
-	- Chest
-    -
+1. Initial imaging: The following features should prompt further evaluation for lung cancer.
+	- Chest radiograph demonstrates a new or enlarging focal lesion, a pleural effusion, pleural nodularity, enlarged hilar or paratracheal nodes, endobronchial lesion, post-obstructive pneumonia or segmental/lobar atelectasis.
+    - CT findings suggestive of malignancy in a patient with a solitary pulmonary nodule include large lesion (> 15 mm), irregular or spiculated borders, upper lobe location, thick-walled cavitation, presence or development of a solid component within a ground glass lesion, and detection of growth by follow-up imaging. Multiple nodules in a patient with a known or suspected extrathoracic malignancy strongly suggests pulmonary metastasis.
+2. Tissue: A diagnosis of lung cancer should not be made without definitive pathology. Modalities include:
+	- **Bronchoscopy** with endobronchial ultrasound-directed biopsy (for central lesions).
+    - Ultrasound/CT-guided **needle biopsy** (for peripheral lesions). Core needle biopsy is preferable to fine-needle aspiration.
+    - **Transbronchial needle aspiration** obtains mediastinal lymph nodes for pathologic examination and aids in staging.
+    - **Video-assisted thoracic surgery (VATS)**
+    - Thoracentesis is typically performed first for evaluation of pleural effusions. Pleural biopsy is often performed when pleural fluid cytology is negative or to obtain tissue from a solid pleural lesion.
+3. Evaluation of extrathoracic metastasis:
+	- **PET-CT** is more sensitive than CT alone
+    - **Brain MRI** for all patients except those with stage IA cancer.
+4. **Genetic testing** for EGFR mutation and ALK rearrangement is important for treatment of stage IV non-squamous NSCLC.
+5. Pulmonary function test might be useful for predicting lung function after resection. The result of PFTs should be above 30% predicted.
+
+_TNM staging system for NSCLC (7 edition)_
+Table-1:
+![]()
+Table-2:
+![]()
+
+### Treatment
+_NSCLC_
+1. **Stages I & II**: Surgical resection + adjuvant chemotherapy (platinum-based doublet) is prefered. Radiation therapy is an option for those who are not candidates for surgical resection.
+2. **Stage III**: Chemoradiation is main modality. Stage IIIA tumor is viewed as resectable, while stage IIIB tumor is unresectable. Neuadjuvant chemoradiatio may convert unresectable tumor to resectable one.
+3. **Stage IV**:
+	- Chemotherapy (platinum-based doublet): cisplatin/pemetrexed is better for adenocarcinoma; cisplatin/gemcitabine is better for squamous cell carcinoma
+    - EGFR tyrosine kinase inhibitors (TKIs) such as erlotinib and afatinib should be considered as frontline therapy in patients whose tumors harbor activating mutations in EGFR.
+    - Crizotinib and ceritinib are TKIs effective in patients with tumors harboring the EML4-ALK fusion gene. Crizotinib is also associated with marked clinical activity in tumors harboring ROS1 rearrangement.
+    - TKI toxicities include rash and diarrrhea; lung and liver injury are rare bu potentially serious.
+    - Nivolumab (targeting PD-1 receptor) has been approved for patients with previously treated metastatic SCC.
+    - Radiation therapy and surgery may be useful for symptom palliation.
+
+_SCLC_
+SCLC is a disseminated diease in most patients at presentation and is very responsive to chemotherapy.
+1. **Limited stage (stages I to III)**: The standard therapy is concurrent radiation therapy and chemotherapy with a platinum agent (carboplatin or cisplatin) plus etoposide. Prophylactic cranial irradiation (PCI) decreases the incidence of brain metastases and improves survival.
+2. **Extensive stage (stage IV)**: Chemotherapy with a platinum agent (carboplatin or cisplatin) plus etoposide. Radiation therapy, including both prophylactic cranial radiation and thoracic RT, may be benificial in patients with a complete or partial response to their initial chemotherapy.
+
+### Prognosis
+Table-3:
+![]()
+
 
 References:
 
 1. The Massachusetts General Hospital Handbook of Internal Medicine 5e
 2. The Washington Manual of Medical Therapeutics 35e
 3. NMS surgery 6e
-4. UpToDate: "Malignancy-related superior vena cava syndrome"
+4. UpToDate: "Malignancy-related superior vena cava syndrome", "Overview of the initial evaluation, diagnosis, and staging of patients with suspected lung cancer", "Procedures for tissue biopsy in patients with suspected non-small cell lung cancer", "Overview of the initial evaluation, treatment, and prognosis of lung cancer"
