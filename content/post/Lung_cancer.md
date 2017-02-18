@@ -91,6 +91,7 @@ _Diagnostic and staging evaluation_
 5. Pulmonary function test might be useful for predicting lung function after resection. The result of PFTs should be above 30% predicted.
 
 _TNM staging system for NSCLC (7 edition)_
+
 Table-1:
 ![](/img/Lung_TNM.png)
 Table-2:
@@ -112,6 +113,7 @@ _NSCLC_
 _SCLC_
 
 SCLC is a disseminated diease in most patients at presentation and is very responsive to chemotherapy.
+
 1. **Limited stage (stages I to III)**: The standard therapy is concurrent radiation therapy and chemotherapy with a platinum agent (carboplatin or cisplatin) plus etoposide. Prophylactic cranial irradiation (PCI) decreases the incidence of brain metastases and improves survival.
 2. **Extensive stage (stage IV)**: Chemotherapy with a platinum agent (carboplatin or cisplatin) plus etoposide. Radiation therapy, including both prophylactic cranial radiation and thoracic RT, may be benificial in patients with a complete or partial response to their initial chemotherapy.
 
