@@ -68,8 +68,14 @@ _Paraneoplastic syndromes_
 - Other paraneoplastic syndromes: digital clubbing, peripheral neuropathy, cerebellar degeneration, limbic  encephalitis, acanthosis nigricans, dermatomyositis, DIC, and marantic endocarditis.
 
 ### Diagnosis
+_Screening_
+- No benefit to chest X-ray or sputum cytology, even in high-risk patients. A normal chest X-ray does not exclude lung cancer.
+- Any patient with a smoking history and concerning pulmonary symptoms should undergo a **low-dose chest CT-scan**.
 
-
+_Diagnostic and staging evaluation_
+1. Initial imaging:
+	- Chest
+    -
 
 References:
 
