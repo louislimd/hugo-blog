@@ -69,10 +69,12 @@ _Paraneoplastic syndromes_
 
 ### Diagnosis
 _Screening_
+
 - No benefit to chest X-ray or sputum cytology, even in high-risk patients. A normal chest X-ray does not exclude lung cancer.
 - Any patient with a smoking history and concerning pulmonary symptoms should undergo a **low-dose chest CT-scan**.
 
 _Diagnostic and staging evaluation_
+
 1. Initial imaging: The following features should prompt further evaluation for lung cancer.
 	- Chest radiograph demonstrates a new or enlarging focal lesion, a pleural effusion, pleural nodularity, enlarged hilar or paratracheal nodes, endobronchial lesion, post-obstructive pneumonia or segmental/lobar atelectasis.
     - CT findings suggestive of malignancy in a patient with a solitary pulmonary nodule include large lesion (> 15 mm), irregular or spiculated borders, upper lobe location, thick-walled cavitation, presence or development of a solid component within a ground glass lesion, and detection of growth by follow-up imaging. Multiple nodules in a patient with a known or suspected extrathoracic malignancy strongly suggests pulmonary metastasis.
@@ -96,6 +98,7 @@ Table-2:
 
 ### Treatment
 _NSCLC_
+
 1. **Stages I & II**: Surgical resection + adjuvant chemotherapy (platinum-based doublet) is prefered. Radiation therapy is an option for those who are not candidates for surgical resection.
 2. **Stage III**: Chemoradiation is main modality. Stage IIIA tumor is viewed as resectable, while stage IIIB tumor is unresectable. Neuadjuvant chemoradiatio may convert unresectable tumor to resectable one.
 3. **Stage IV**:
@@ -107,6 +110,7 @@ _NSCLC_
     - Radiation therapy and surgery may be useful for symptom palliation.
 
 _SCLC_
+
 SCLC is a disseminated diease in most patients at presentation and is very responsive to chemotherapy.
 1. **Limited stage (stages I to III)**: The standard therapy is concurrent radiation therapy and chemotherapy with a platinum agent (carboplatin or cisplatin) plus etoposide. Prophylactic cranial irradiation (PCI) decreases the incidence of brain metastases and improves survival.
 2. **Extensive stage (stage IV)**: Chemotherapy with a platinum agent (carboplatin or cisplatin) plus etoposide. Radiation therapy, including both prophylactic cranial radiation and thoracic RT, may be benificial in patients with a complete or partial response to their initial chemotherapy.
