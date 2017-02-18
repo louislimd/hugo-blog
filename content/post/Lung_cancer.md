@@ -3,7 +3,7 @@ tags = ["respiratory"
 ]
 description = ""
 menu = ""
-banner = ""
+banner = "banners/Lung_cancer.png"
 disable_comments = true
 title = "Lung cancer"
 categories = ["diseases"
@@ -92,9 +92,9 @@ _Diagnostic and staging evaluation_
 
 _TNM staging system for NSCLC (7 edition)_
 Table-1:
-![]()
+![](/img/Lung_TNM.png)
 Table-2:
-![]()
+![](/img/Lung_staging_group.png)
 
 ### Treatment
 _NSCLC_
@@ -117,7 +117,7 @@ SCLC is a disseminated diease in most patients at presentation and is very respo
 
 ### Prognosis
 Table-3:
-![]()
+![](/img/Lung_cancer_prognosis.png)
 
 
 References:
