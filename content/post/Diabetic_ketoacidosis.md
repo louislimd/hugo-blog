@@ -5,7 +5,7 @@ disable_comments = true
 categories = ["diseases"
 ]
 title = "Diabetic ketoacidosis"
-banner = "banners/Ketogenesis.png"
+banner = "banners/Diabetic_ketoacidosis.png"
 images = [
 ]
 tags = ["endocrine"
