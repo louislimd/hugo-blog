@@ -5,7 +5,7 @@ disable_comments = true
 categories = ["diseases"
 ]
 title = "Diabetic ketoacidosis"
-banner = ""
+banner = "banners/Ketogenesis.png"
 images = [
 ]
 tags = ["endocrine"
@@ -33,6 +33,7 @@ _Risk factors_
 - Intoxication of alcohol
 
 > Note!
+> 
 > - DM patients will need more insulin during sick days.
 > - Euglycemic DKA (plasma glucose < 200 mg/dL) has been described in pregnancy, alocohol ingestions, fasting or starvation, during hospitalization, and in DM patients treated with SGLT-2 inhibitors.
 
@@ -72,7 +73,25 @@ _Monitoring_
 _Treating DKA_
 
 1. **IV fluids**
-    - 
+    - Give 0.9% saline 10~14 mL/kg/h (alternatively 1L/h) for the first couple hours.
+    - After the second or third hour, give 0.45% saline (0.9% saline if hyponatremia) 150~500 mL/h.
+    - Adjust repletion according to blood pressure and urine output. The repletion should be no faster than 3 mOsm/kg/h.
+    - Add dextrose 5% to the saline solution when the serum glucose less than 250 mg/dL. For patients with euglycemic DKA, dextrose should be added to IV fluids at the initiation of the therapy.
+    - Aim for positive fluid balance over 12~24 hours.
+2. **Insulin**
+    - Do not start until K > 3.5 mmol/L
+    - 0.1 U/kg IV push followed by 0.1 U/kg/h (regular insulin 100 U in 100 mL 0.9% normal saline at 10mL/h = 10 U/h)
+    - Correcting blood glucose 50~75 mg/dL/h reduces risk of osmotic encephalopathy.
+    - Continue until anion gap is normal, then administer subcutaneous basal insulin 2 hour prior to stopping insulin infusion.
+3. **Potassium (as KCl)**
+    - Add 20~40 mEq/L to IV fluid if serum potassium less than 4.5
+    - Be caution if renal function remains depressed.
+4. Bicarbonate
+    - Not routinely recommended, but may consider in following condition: shock/coma, pH less than 7, bicarbonate less than 5 mEq/L, cardiac/respiratory dysfunction, or severe hyperkalemia.
+    - 50~100 mEq in 1L 0.45% saline over 30~60 min
+    - Add 10 mEq KCl can avoid hypokalemia.
+5. Phosphate
+    - Not routinely recommended, but may consider if phosphate less than 1 or patient not eating.
 
 _Treating complications of DKA_
 
@@ -95,4 +114,4 @@ References:
 
 1. The Massachusetts General Hospital Handbook of Internal Medicine 5e
 2. The Washington Manual of Medical Therapeutics 35e
-3. Uptodate: ""
+3. Uptodate: "Diabetic ketoacidosis and hyperosmolar hyperglycemic state in adults: Treatment"

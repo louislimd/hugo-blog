@@ -47,7 +47,7 @@ About 10% of patients are asymptomatic and are detected incidentally by imaging.
 
 _Pulmonary symptoms_
 
-Endobronchial growth of local lesion can cause **cough**, **dyspnea**, **hemoptysis**, wheezing, and obstructive pneumonia. Theses manifestations are more common in SCC and SCLC, which are located centrally.
+Endobronchial growth of local lesion can cause **cough**, **dyspnea**, **hemoptysis**, wheezing, and obstructive pneumonia. These manifestations are more common in SCC and SCLC, which are located centrally.
 
 _Regional spread_
 
