@@ -14,12 +14,13 @@ images = [
 
 +++
 ### Introduction
-- Hyerkalemia is defined as a plasma potassium > 5.0 mEq/L.
+- Hyerkalemia is defined as plasma potassium > 5.0 mEq/L.
 - Pseudohyperkalemia represents an artificially elevated plasma potassium due to potassium movement out of cells immediately before or following venipuncture. Contributing factors include repeated fist clenching, hemolysis, and marked leukocytosis or thrombosis.
 
 <!--more-->
 ### Etiology
 True hyperkalemia occurs as a result of:
+
 _Transcellular shift_
 
 1. Metabolic acidosis other than organic acidosis due to lactic acidosis or ketoacidosis
@@ -58,7 +59,7 @@ _Decreased renal potassium excretion (most common)_
 >
 > 1. Severe hyperkalemia with ECG changes is a medical emegency.
 > 2. Calcium helps prevent/treat cardiac complications, therefore it should be initial therapy (especially when ECG is abnormal).
-> 3. Treatment that eliminate total body potassium essential (ex. Kayexalate, diuretics, and dialysis) will wear off with time.
+> 3. Treatment that eliminates total body potassium essential (ex. Kayexalate, diuretics, and dialysis) will wear off with time.
 
 _Acute therapy_
 
@@ -98,10 +99,10 @@ _Acute therapy_
 
 _Chronic therapy_
 
-    - Dietary modification for reducing potassium intake
-    - Correction of metabolic acidosis with oral alkali
-    - Diuretics
-    - Administration of mineralocorticoid in case of hypoaldosteronism
+- Dietary modification for reducing potassium intake
+- Correction of metabolic acidosis with oral alkali
+- Diuretics
+- Administration of mineralocorticoid in case of hypoaldosteronism
 
 
 References:
