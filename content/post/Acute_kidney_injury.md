@@ -18,6 +18,7 @@ title = "Acute kidney injury"
     - Abrupt increase (within **48 hours**) in serum creatinine more than **0.3 mg/dL** or more than **50%** from baseline.
     - Urine output less than **0.5 mL/kg/h for over 6 hours**.
 2. Be aware that serum creatinine does not accurately reflect the GFR in a patient with unstable kidney function.
+
 <!--more-->
 
 ### Etiology
@@ -31,7 +32,7 @@ Prerenal disease characterized by preserved intrinsic renal function in the sett
     - Sepsis
     - Hepatic cirrhosis (can progress to hepatorenal syndrome)
 2. Renal vasoconstriction can be caused by:
-    - [Hepatorenal syndrome](): Spontaneous bacterial peritonitis, overdiuresis, gastrointestinal bleeding, large volume paracentesis without volume expansion, or systemic bacterial infections can precipitate hepatorenal syndrome in cirrhotic patients.
+    - [Hepatorenal syndrome](https://louislimd.github.io/2017/03/04/hepatorenal-syndrome/): Spontaneous bacterial peritonitis, overdiuresis, gastrointestinal bleeding, large volume paracentesis without volume expansion, or systemic bacterial infections can precipitate hepatorenal syndrome in cirrhotic patients.
     - Hypercalcemia
     - Drugs: NSAIDs, angiotensin-converting-enzyme inhibitors, angiotensin receptor blockers, contrast, and calcineurin inhibitors
 3. Obstruction of large vessels:
@@ -48,7 +49,7 @@ Intrinsic renal disease involves the glomeruli, microvasculature, tubules, or in
     - Toxic ATN results from drugs (ex. aminoglycosides, amphotericin B, cisplatin)
     - Pigment nephropathy (ex. hemoglobin, myoglobin) results from direct tubular toxicity and vasoconstriction.
     - Toxic ATN results from light chain of immunoglobulin
-    - Crystal-induced AKI (ex. uric acid, methotrexate, acyclovir, indinavir; [tumor lysis syndrome]())
+    - Crystal-induced AKI (ex. uric acid, methotrexate, acyclovir, indinavir; [tumor lysis syndrome](https://louislimd.github.io/2017/03/04/tumor-lysis-syndrome/))
     - **Contrast-induced acute kidney injury**: Risk factors include chronic kidney disease, diabetes, heart failure, volume depletion, higher contrast volumes, and use of hyperosmolar contrast.
 2. Acute interstitial nephritis (AIN):
     - Allergy caused by beta-lactams, sulfa drugs, NSAIDs, allopurinol, or proton pump inhibitors
@@ -60,7 +61,7 @@ Intrinsic renal disease involves the glomeruli, microvasculature, tubules, or in
     - Cholesterol embolism: can be seen in patients with diffuse atherosclerosis
     - Polyarteritis nodosa
     - Thrombotic microangiopathy: hemolytic uremic syndrome, thrombotic thrombocytopenic purpura, disseminated intravascular coagulation, preeclampsia, antiphospholipid-antibody syndrome, malignant hypertension, or scleroderma renal crisis
-4. Glomerular diseases, such as rapidly progressive glomerulonephritis (See more information in "[Glomerulopathies]()").
+4. [Glomerular diseases](https://louislimd.github.io/2017/03/04/glomerulopathies/), such as rapidly progressive glomerulonephritis.
 
 _Postrenal disease_
 
@@ -95,6 +96,9 @@ Postrenal disease involves obstruction of the urinary collecting system. Bilater
 ### Diagnosis
 _Workup_
 
+Table-1 Laboratory findings and diagnosis of acute kidney injury
+![](/img/AKI_diagnosis.png)
+
 To identify the cause of acute kidney injury, initial evaluation should include following workup:
 
 1. History & Physical examination
@@ -106,17 +110,11 @@ To identify the cause of acute kidney injury, initial evaluation should include 
     - Output
     - Urinalysis, electrolytes and osmolality
     - **Sediment**: Muddy brown granular casts suggest acute tubular necrosis (ATN), WBC casts suggest an inflammatory or infectious interstitial process, and RBC casts suggest glomerular disease. Identification of crystals in the urine may suggest crystal-induced AKI.
-3. **Fractional excretion of sodium** (FENa) = (Urine Na/Plasma Na)/(Urine creatinine/Plasma creatinine). The interpretation of FENa and other parameters is briefly summarized in Table-1.
-
-Table-1 Laboratory findings and diagnosis of acute kidney injury
-![](/img/AKI_diagnosis.png)
-
-Loop diuretics and metbolic alkalosis can induce natriuresis, increase the FENa, and mask the presence of renal hypoperfusion. The FEUN can instead be calculated in these settings. Be aware that contrast and pigment nephropathy can result in a low FENa due to early vasoconstriction ("prerenal" drop in perfusion). The FENa also has limited utility when AKI is superimposed on chronic kidney disease.
-
+3. **Fractional excretion of sodium** (FENa) = (Urine Na/Plasma Na)/(Urine creatinine/Plasma creatinine). The interpretation of FENa and other parameters is briefly summarized in Table-1. Loop diuretics and metbolic alkalosis can induce natriuresis, increase the FENa, and mask the presence of renal hypoperfusion. The FEUN can instead be calculated in these settings. Be aware that contrast and pigment nephropathy can result in a low FENa due to early vasoconstriction ("prerenal" drop in perfusion). The FENa also has limited utility when AKI is superimposed on chronic kidney disease.
 4. Renal ultrasound or CT
     - Rule out obstruction
     - Evaluate kidney size to estimate chronicity of kidney disease
-5. Serologies if indicated (See more information in "[Glomerulopathies]()")
+5. Serologies if indicated (See more information in "[Glomerulopathies](https://louislimd.github.io/2017/03/04/glomerulopathies/)")
 6. Renal biopsy may be necessary if cause remains unclear, especially if hematuria or proteinuria present.
 
 _Other_
@@ -126,13 +124,13 @@ _Other_
 2. Intrinsic disease
     - **ATN**: Pigmented granular muddy brown casts in about 75% patients.
     - **Pigment nephropathy**: The diagnosis may be suspected by a positive urine dipstick test for blood but an absence of RBCs on microscopic examination.
-    - **Tumor lysis syndrome**: A ratio of urine uric acid to urine creatinine that is > 1 is consistent with this diagnosis, as is the finding of uric acid crystals in the urine sediment (See more information in "[Tumor lysis syndrome]()").
+    - **Tumor lysis syndrome**: A ratio of urine uric acid to urine creatinine that is > 1 is consistent with this diagnosis, as is the finding of uric acid crystals in the urine sediment (See more information in "[Tumor lysis syndrome](https://louislimd.github.io/2017/03/04/tumor-lysis-syndrome/)").
     - **AIN**: Urine WBCs, WBC casts, with negative urine culture results.
     - **Allergic interstitial disease caused by antibiotics**: Eosinophil may be seen in urine.
     - **Allergic interstitial disease caused by NSAIDs**: Lymphocyte may be seen in urine. Nephrotic range proteinuria might occur as well.
     - **Pyelonephritis**: Urine findings include pyuria and WBC casts.
     - **Cholesterol embolism**: Eosinophilia, eosinophiluria, and hypocomplementemia may be present, and WBC casts maty be found in the urine sediment. However, in many cases, the only laboratory abnormality is a rising creatinine follows a stepwise progression. Renal biopsy shows cholesterol clefts in the small arteries.
-    - **Glomerulonephritis**: Dysmorphic RBCs and RBC casts may be seen in urine (See more information in "[Glomerulopathies]()").
+    - **Glomerulonephritis**: Dysmorphic RBCs and RBC casts may be seen in urine (See more information in "[Glomerulopathies](https://louislimd.github.io/2017/03/04/glomerulopathies/)").
 3. Postrenal disease
     - Most causes of postrenal disease are identified on ultrasound by dilation of the collecting system. Be aware that hydronephrosis may be less pronounced when there is concomitant volume depletion or if peritoneal fibrosis has encased the ureters, preventing their expansion.
     - When urethral flow is impeded by **prostatic enlargement**, placement of a bladder catheter can be both diagnostic and therapeutic; a postvoid residual urine volume **> 300 mL** strongly suggests the diagnosis.
@@ -140,12 +138,13 @@ _Other_
 ### Treatment
 General principles include:
 
-- Volume status must be evaluated to correct for hypovolemia or hypervolemia (See more information in "[Fluid management and volume status]()").
+- Volume status must be evaluated to correct for hypovolemia or hypervolemia (See more information in "[Fluid management and volume status](https://louislimd.github.io/2017/03/04/fluid-management-and-volume-status/)").
 - Watch out for electrolyte imbalances (ex. potassium, phosphorus) and acid-base disturbance.
 - Mild metabolic acidosis can be treated with oral sodium bicarbonate, 650~1300 mg thrice daily. Severe acidosis (pH less than 7.2) can be temporized with IV sodium bicarbonate but requires monitoring for volume overload, rebound alkalosis, and hypocalcemia.
 - Avoid nephrotoxic insults and review dosing of renally cleared drugs.
 
 > Indications of hemodialysis in patients with AKI:
+> 
 > - Anuria (negligible urine output for 6h)
 > - Severe oliguria (urine output < 200mL over 12h)
 > - Hyperkalemia (> 6.5 mmol/L)
@@ -158,7 +157,7 @@ General principles include:
 Disease-specific therapies will be discussed below. 
 
 1. Prerenal disease
-    - **Hepatorenal syndrome**: Management of the renal disease is supportive. Temporizing measures include treatment of the underlying precipitating factor (ex. peritonitis) and withholding diuretics. Dialytic support can be used as a bridge to transplantation in appropriate candidates. See more information in [Hepatorenal syndrome]().
+    - **Hepatorenal syndrome**: See more information in [here](https://louislimd.github.io/2017/03/04/hepatorenal-syndrome/).
     - In AKI caused by **heart failure**, diuresis may improve the prerenal azotemia.
 2. Intrinsic disease
     - Management of **ATN** is supportive. Volume deficits, if present, should be corrected. If volume overload and oliguria become evident, a diuretic challenge is reasonable (typically IV furosemide 40~120 mg boluses or a continuous drip at 10~20 mg/h). It may take 1~2 weeks to recover from ATN.
@@ -167,10 +166,11 @@ Disease-specific therapies will be discussed below.
     - **Nephrogenic systemic fibrosis**: No effective prophylaxis or standard treatment. Kidney transplantation can be considered.
     - **Aminoglycoside toxicity**: Replacement of potassium and magnesium may be necessary. Risk may be minimized by avoiding volume depletion.
     - **Rhabdomyolysis**: Aggressive IV fluid administration (consider isotonic saline at 1~2L/h) should be initiated immediately. After urine flow is established, alkalinization with sodium bicarbonate (150 mL of 8.4% sodium bicarbonate mixed with 1 L of 5% dextrose in water) might be helpful if severe hypocalcemia is not present, arterial pH less than 6.5, and serum bicarbonate less than 30 mEq/L. If bicarbonate is given, arterial pH and serum calcium should be monitored every 2 hours.
-    - **Tumor lysis syndrome**: See more information in "[Tumor lysis syndrome]()"
+    - **Tumor lysis syndrome**: See more information in [here](https://louislimd.github.io/2017/03/04/tumor-lysis-syndrome/).
     - **Cholesterol embolism**: No specific treatment is available. Anticoagulation may worsen embolic disease.
     - **AIN**: Withdraw the offending agent. Temporary dialytic support may be necessary in severe cases. A short course of prednisone at 1 mg/kg/day may hasten recovery.
     - **Pyelonephritis**: antibiotic therapy is guided by culture results.
+    - **Glomerular disease**: See more information in [here](https://louislimd.github.io/2017/03/04/glomerulopathies/).
 3. Postrenal disease
     - When the **upper urinary tract** is obstructed, decompression is necessary, with stenting or placement of percutaneous nephrostomy tubes.
     - **Postobstructive diuresis**: Serum electrolytes need to be monitored if polyuria ensues, and replacement of approximately half of the urinary volume with 0.45% saline is recommended. Watch out for secondary buildup of BUN and tubular damage.
