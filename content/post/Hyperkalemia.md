@@ -6,7 +6,7 @@ menu = ""
 date = "2017-02-20T23:55:44+08:00"
 title = "Hyperkalemia"
 banner = "banners/Hyperkalemia.png"
-tags = ["eletrolytes"
+tags = ["fluid and eletrolytes"
 ]
 description = ""
 images = [
