@@ -22,7 +22,6 @@ _Bacteria_
     - Treponema pallidum (syphilis)
     - Leptospira spp. (leptospirosis)
 
-<!--more-->
 _Diseases_
 
 1. Streptococcal infections: penicillin G is still the first-line therapy
@@ -37,7 +36,7 @@ _Diseases_
     - Leptospirosis
 6. Actinomycosis
 7. Gas gangrene caused by Clostridium perfringens
-
+<!--more-->
 ### Dosage
 - Unit: penicillin G 1 mu (million units) = 0.6 g
 
@@ -57,8 +56,7 @@ Table-2 Patients with abnormal kidney function
 4. When oral formulation of penicillin is indicated, **amoxicillin** might be a better choice compared to penicillin V. The reasons include:
     - The bioavailability of amoxicillin is better.
     - Amoxicillin can be given 2~3 times daily, while penicillin V have to be given 4 times per day.
-5. Rare anaphylactic reactions typically occur within **30 minutes** after exposure to penicillin G. Therefore, patients administered with penicillin G should be under observation for 30 minutes after injection, especially in outpatient setting.
-6. **Benzathine penicillin G** is a long-acting IM repository form of penicillin that can be used in patients not able to complete the 10-days course of treatment. Indications of benzathine penicillin G include:
+5. **Benzathine penicillin G** is a long-acting IM repository form of penicillin that can be used in patients not able to complete the 10-days course of treatment. Indications of benzathine penicillin G include:
     - Early latent syphilis (< 1 year duration): 2.4 mu IM in one dose
     - Late latent syphilis (unknown duration or > 1 year): 2.4 mu IM weekly for 3 doses
     - Acute group A streptococcal pharyngotonsillitis: 1.2 mu IM in one dose
@@ -66,3 +64,6 @@ Table-2 Patients with abnormal kidney function
 
 Table-3 Benzathine penicillin G dosage for prophylactic purpose
 ![](/img/Penicillin_3.png)
+
+### Adverse effect
+Rare anaphylactic reactions typically occur within **30 minutes** after exposure to penicillin G. Therefore, patients administered with penicillin G should be under observation for 30 minutes after injection, especially in outpatient setting.
