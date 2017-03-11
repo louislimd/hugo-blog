@@ -110,7 +110,11 @@ To identify the cause of acute kidney injury, initial evaluation should include 
     - Output
     - Urinalysis, electrolytes and osmolality
     - **Sediment**: Muddy brown granular casts suggest acute tubular necrosis (ATN), WBC casts suggest an inflammatory or infectious interstitial process, and RBC casts suggest glomerular disease. Identification of crystals in the urine may suggest crystal-induced AKI.
-3. **Fractional excretion of sodium** (FENa) = (Urine Na/Plasma Na)/(Urine creatinine/Plasma creatinine). The interpretation of FENa and other parameters is briefly summarized in Table-1. Loop diuretics and metbolic alkalosis can induce natriuresis, increase the FENa, and mask the presence of renal hypoperfusion. The FEUN can instead be calculated in these settings. Be aware that contrast and pigment nephropathy can result in a low FENa due to early vasoconstriction ("prerenal" drop in perfusion). The FENa also has limited utility when AKI is superimposed on chronic kidney disease.
+3. **Fractional excretion of sodium** (FENa) = (Urine Na/Plasma Na)/(Urine creatinine/Plasma creatinine).
+    - The interpretation of FENa and other parameters is briefly summarized in Table-1.
+    - Loop diuretics and metbolic alkalosis can induce natriuresis, increase the FENa, and mask the presence of renal hypoperfusion. The FEUN can instead be calculated in these settings.
+    - Be aware that contrast and pigment nephropathy can result in a low FENa due to early vasoconstriction ("prerenal" drop in perfusion).
+    - The FENa also has limited utility when AKI is superimposed on chronic kidney disease.
 4. Renal ultrasound or CT
     - Rule out obstruction
     - Evaluate kidney size to estimate chronicity of kidney disease

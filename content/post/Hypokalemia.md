@@ -95,4 +95,4 @@ References:
 
 1. The Massachusetts General Hospital Handbook of Internal Medicine 5e
 2. The Washington Manual of Medical Therapeutics 35e
-3. UpToDate: "Causes of hypokalemia in adults", "Evaluation of the adult patient with hypokalemia"
+3. UpToDate: "Causes of hypokalemia in adults", "Evaluation of the adult patient with hypokalemia", "Clinical manifestations and treatment of hypokalemia in adults"
