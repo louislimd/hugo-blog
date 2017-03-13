@@ -30,7 +30,9 @@ _Diseases_
 2. Empiric therapy for Staphylococcus aureus or streptococcal infections, for example:
     - Cellulitis
     - Impetigo
+
 <!--more-->
+
 ### Dosage
 1. Patients with normal kidney function
     - Adult: 2g IV drip 1 hour q4h

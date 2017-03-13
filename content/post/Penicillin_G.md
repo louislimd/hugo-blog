@@ -36,7 +36,9 @@ _Diseases_
     - Leptospirosis
 6. Actinomycosis
 7. Gas gangrene caused by Clostridium perfringens
+
 <!--more-->
+
 ### Dosage
 - Unit: penicillin G 1 mu (million units) = 0.6 g
 
