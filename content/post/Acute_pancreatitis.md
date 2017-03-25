@@ -105,8 +105,8 @@ _Surgical management_
 - Necrotizing pancreatitis often requires minimally-invasive debridement and broad-spectrum antibiotics for Gram negative rods (carbapenems or a combination of fluoroquinolone and metronidazole have good penetration into necrotic tissue).
 
 ### Complications
-1. Systemic: shock, renal failure, GI hemorrhage
-2. Metabolic: hypocalcemia, hypomagnesemia, and hyperglycemia
+1. Systemic complications: shock, renal failure, GI hemorrhage
+2. Metabolic complications: hypocalcemia, hypomagnesemia, and hyperglycemia
 3. Pulmonary complications: acute respiratory distress syndrome, pleural effusions, atelectasis, pneumonia
 4. Local complications:
     - Acute peri-pancreatic fluid collection: Peripancreatic fluid without capsule formation, usually seen within the first 4 weeks. No treatment is required.

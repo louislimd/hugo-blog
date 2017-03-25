@@ -44,12 +44,12 @@ _Risk factors_
 - Respiratory distress, somnolence, stupor, shock, and coma can occur.
 
 ### Diagnosis
-- **Metabolic acidosis with increased anion gap** can later develope into non-anion gap acidosis due to urinary loss of ketones (bicarbonate equivalents) and fluid resuscitation with chloride.
 - **Positive serum/urine beta-hydrocybutyrate or ketones** (Caution: urine ketones may be positive in fasting normal patients)
 - Hyperglycemia (except for euglycemic DKA) and hyperosmolality
 - Increased BUN & creatinine
 - Hyponatremia: corrected Na = measured Na + 2.4x(measured glucose - 100)/100
 - Other: leukocytosis, elevated amylase
+- **Metabolic acidosis with increased anion gap** can later develop into non-anion gap acidosis due to urinary loss of ketones (bicarbonate equivalents) and fluid resuscitation with chloride.
 
 ### Treatment
 _Principles_
