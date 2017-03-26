@@ -1,8 +1,8 @@
 +++
 disable_comments = true
-tags = [
+tags = ["fluid and electrolytes"
 ]
-categories = [
+categories = ["diseases"
 ]
 menu = ""
 images = [
@@ -10,7 +10,7 @@ images = [
 description = ""
 banner = ""
 date = "2017-03-26T22:14:54+08:00"
-title = "Respiratory_alkalosis"
+title = "Respiratory alkalosis"
 
 +++
 

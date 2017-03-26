@@ -1,14 +1,14 @@
 +++
-banner = ""
+banner = "banners/Amoxicillin.png"
 images = [
 ]
-categories = [
+categories = ["drugs"
 ]
 date = "2017-03-26T22:16:08+08:00"
 description = ""
 menu = ""
 disable_comments = true
-tags = [
+tags = ["antibiotics"
 ]
 title = "Amoxicillin"
 

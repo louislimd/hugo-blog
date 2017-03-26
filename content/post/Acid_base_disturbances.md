@@ -73,12 +73,12 @@ _Workup_
 
 1. Determine **primary disorder** by checking pH, PaCO<sub>2</sub>, HCO<sub>3</sub><sup>-</sup>.![](/img/Acid_base_1.png)
 2. Determine whether **compensation** is appropriate. An inappropriate compensation suggests the presence of mixed disorder.![](/img/Acid_base_2.png)
-3. Assess the **anion gap** and the **delta gap** if the main problem is metabolic acidosis. Assess the **alveolar-arterial gradient** instead if the main problem is respiratory acidosis.
+3. Assess the **anion gap** and the **delta gap** ([calculator](https://www.mdcalc.com/anion-gap)) if the main problem is metabolic acidosis. Assess the **alveolar-arterial gradient** ([calculator](https://www.mdcalc.com/a-a-o2-gradient)) instead if the main problem is respiratory acidosis.
 4. To differentiate the cause leading to the primary disorder, refer to the specific diseases:
-    - [Metabolic acidosis]()
-    - [Metabolic alkalosis]()
-    - [Respiratory acidosis]()
-    - [Respiratory alkalosis]()
+    - [Metabolic acidosis](https://louislimd.github.io/2017/03/26/metabolic_acidosis/)
+    - [Metabolic alkalosis](https://louislimd.github.io/2017/03/26/metabolic_alkalosis/)
+    - [Respiratory acidosis](https://louislimd.github.io/2017/03/26/respiratory_acidosis/)
+    - [Respiratory alkalosis](https://louislimd.github.io/2017/03/26/respiratory_alkalosis/)
 
 _Anion gap (AG)_
 
@@ -104,12 +104,10 @@ _Alveolar-arterial gradient: P(A-a)O<sub>2</sub>_
 ### Treatment
 The specific treatment for different acid-base distubances is described in following links:
 
-- [Metabolic acidosis]()
-- [Metabolic alkalosis]()
-- [Respiratory acidosis]()
-- [Respiratory alkalosis]()
-
-1$/pm$2
+- [Metabolic acidosis](https://louislimd.github.io/2017/03/26/metabolic_acidosis/)
+- [Metabolic alkalosis](https://louislimd.github.io/2017/03/26/metabolic_alkalosis/)
+- [Respiratory acidosis](https://louislimd.github.io/2017/03/26/respiratory_acidosis/)
+- [Respiratory alkalosis](https://louislimd.github.io/2017/03/26/respiratory_alkalosis/)
 
 References:
 

@@ -2,14 +2,14 @@
 menu = ""
 disable_comments = true
 description = ""
-categories = [
+categories = ["diseases"
 ]
 banner = ""
 date = "2017-03-26T22:14:25+08:00"
-title = "Metabolic_acidosis"
+title = "Metabolic acidosis"
 images = [
 ]
-tags = [
+tags = ["fluid and electrolytes"
 ]
 
 +++
