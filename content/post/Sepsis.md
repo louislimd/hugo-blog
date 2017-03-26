@@ -41,7 +41,7 @@ Septic shock is caused by the systemic release of cytokines and other immunomodu
 > 2. Refractory hypotension defined as systolic blood pressure <= **90** mmHg or mean arterial pressure (MAP) <= **70** mmHg that does not improve following adequate fluid resuscitation of **30** mL/kg ideal body weight IV crystalloid fluid or requires vasopressors to maintain adequate MAP.
 
 ### Diagnosis
-- [qSOFA calculator](https://www.mdcalc.com/qsofa-quick-sofa-score-sepsis-identification)
+- [qSOFA calculator](https://www.mdcalc.com/qsofa-quick-sofa-score-sepsis)
 - [SOFA calculator](https://www.mdcalc.com/sequential-organ-failure-assessment-sofa-score)
 
 ![](/img/Sepsis_diagnosis.png)
