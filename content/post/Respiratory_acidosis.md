@@ -5,7 +5,7 @@ tags = ["fluid and electrolytes"
 ]
 title = "Respiratory acidosis"
 menu = ""
-banner = ""
+banner = "banners/Acid_base.png"
 images = [
 ]
 categories = ["diseases"
