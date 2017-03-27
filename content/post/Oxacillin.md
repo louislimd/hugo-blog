@@ -6,7 +6,7 @@ categories = ["drugs"
 ]
 menu = ""
 date = "2017-03-11T16:28:30+08:00"
-title = "Oxacillin"
+title = "Oxacillin (Ocillina)"
 images = [
 ]
 disable_comments = true

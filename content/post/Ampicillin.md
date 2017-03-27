@@ -6,7 +6,7 @@ tags = ["antibiotics"
 description = ""
 menu = ""
 date = "2017-03-11T17:57:45+08:00"
-title = "Ampicillin"
+title = "Ampicillin (Ampolin)"
 disable_comments = true
 categories = ["drugs"
 ]
