@@ -27,6 +27,9 @@ categories = ["clinical practice"
     - **Respiratory** compensation acts within minutes and minimizes pH variation by altering PaCO2.
     - **Renal** compensation acts about 6 hours after alkalosis or acidosis. Kidneys can adapt to pH variation via bicarbonate reabsorption and excretion of titratable acid (ex. H<sub>2</sub>PO<sub>4</sub><sup>-</sup>) and NH<sub>4</sub><sup>+</sup>.
     - Compensation never fully corrects pH. If pH is normal, consider mixed disorder (more than one primary disorder at the same time).
+4. ABG vs VBG:
+    - ABG and VBG are concordant for pH (~0.04) and HCO<sub>3</sub><sup>-</sup> (~2 mEq), but not PaCO<sub>2</sub> (~8&\pm&17 mmHg).
+    - VBG can be used to screen for hypercarbia with PaCO<sub>2</sub> at cutoff &\geq& 45 mmHg, but does not accurately assess degree of hypercarbia.
 
 <!--more-->
 ### Etiology

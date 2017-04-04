@@ -38,8 +38,7 @@ _Bacterial abscesses_
 _Amebic abscesses_
 
 1. Pathogen: Entamoeba histolytica
-2. Route of infection:
-    - Entamoeba histolytica reaches the portal vein from intestinal amebiasis.
+2. Route of infection: Entamoeba histolytica reaches the portal vein from intestinal amebiasis.
 
 ### Manifestations
 _Bacterial abscesses_

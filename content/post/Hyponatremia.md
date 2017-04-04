@@ -67,12 +67,12 @@ _Workup_
 2. Measure serum **osmolality**
     - High serum osmolality (> **290 mOsm/L**): Consider hyperglycemia and mannitol administration
     - Normal serum osmolality (**275~290 mOsm/L**): Consider pseudohyponatremia and post-TURP syndrome
-    - Low serum osmolality (< **275 mOsm/L**): See below
+    - Low serum osmolality (< **275 mOsm/L**): Continue to next step.
 3. For hyponatremia with low serum osmolality, check **volume status**:
     - Vital signs
     - Orthostatics
     - Jugular vein pressure
-    - skin turgor
+    - Skin turgor
     - Mucous membranes
     - Peripheral edema
     - BUN and creatinine
