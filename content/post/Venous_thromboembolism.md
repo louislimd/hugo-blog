@@ -61,13 +61,20 @@ _Risk factors_
 ### Manifestations
 _Deep vein thrombosis_
 
-1. Pretest assessment (Simplified Wells score) of the probability of a DVT provides useful information.![](/img/VTE_3.png)
+1. Pretest assessment (Simplified Wells score) of the probability of a DVT provides useful information.![](/img/VTE_2.png)
 2. Symptoms: calf pain, swelling (> 3 cm compared with unaffected side), redness, warmth, venous distention, tenderness, palpable cord
 3. Physical exmination: Homan's sign positive (calf pain on dorsiflexion, seen in less than 5% of patients)
 4. Phlegmasia cerulea dolens may occur in severe cases.
 5. About 50% of patients with symptomatic DVT have asymptomatic PE.
 
 _Pulmonary embolism_
+
+1. Simplified Wells Pretest Probability Scoring for PE:![](/img/VTE_3.png)
+2. 
+
+_Superficial thrombophlebitis_
+
+Superficial thrombophlebitis presents as a tender, warm, erythematous, and often palpable thrombosed vein.
 
 ### Diagnosis
 _Deep vein thrombosis_
@@ -83,7 +90,12 @@ _Prophylaxis in different situations_
 3. High-risk (ex. immobilized, history of VTE, thrombophilia or cancer), most surgery: unfractionated heparin (UFH) 5000 units SC q12h or q8h, or low-molecular-weight heparin (LMWH); enoxaparin, 40 mg SC daily, or dalteparin 5000 units SC daily; or fondaparinux 2.5 mg SC daily; or mechanical prophylaxis (especially if high risk of bleeding)
 4. Orthopedic surgery: low-molecular-weight heparin (or fondaparinux, rivaroxaban, warfarin [INR 2~3]) for 35 days + mechanical prophylaxis
 
+> Note!
+> 
+> Aspirin alone is not sufficient for prophylaxis.
+
 References:
 
 1. The Massachusetts General Hospital Handbook of Internal Medicine 5e
 2. The Washington Manual of Medical Therapeutics 35e
+3. Uptodate: "Overview of acute pulmonary embolism in adults"
