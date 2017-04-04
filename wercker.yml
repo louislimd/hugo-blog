@@ -24,7 +24,7 @@ build:
         name: install git
         code: |
           apt-get update && apt-get install git -y
-    - arjen/hugo-build@1.13.1:
+    - arjen/hugo-build@1.15.2:
         version: "0.17"
         theme: hugo-icarus-theme
 deploy:
